@@ -9,6 +9,7 @@ Dieses Repository enthält verschiedene SQL-Analysen mit **MySQL Workbench**, di
 Jede Analyse ist in einem separaten Ordner organisiert und besteht aus:
 - 📄 der zugehörigen **CSV-Datei** (Datengrundlage)
 - 🧠 einem **SQL-Skript** mit analytischen Auswertungen
+- 📚 weiteren **unterstützenden Unterlagen** (je nach Bedarf)
 
 ---
 
