@@ -28,7 +28,7 @@ Jede Analyse ist in einem separaten Ordner organisiert und besteht aus:
 - **Datenbank:** MySQL 8.042
 - **GUI:** MySQL Workbench
 - **Datenquellen:** Siehe jeweiliger Ordner
-- **Buchreferenz:** [SQL for Data Analysis – Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088787/)
+- **Buchreferenz:** [SQL for Data Analysis – Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 
 ---
 
