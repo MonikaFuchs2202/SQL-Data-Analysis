@@ -17,6 +17,7 @@ Jede Analyse ist in einem separaten Ordner organisiert und besteht aus:
 | Analyse | Beschreibung | Fokus | Link |
 |--------|--------------|------|------|
 | 🚗 Handelsbilanz Deutschland | Auswertung deutscher Außenhandelsdaten 2008–2024 auf Monatsbasis| Zeitreihenanalyse | [Zum Ordner](./01_Zeitreihenanalysen) |
+| 📄✍️ Versicherungsverträge | Retention Analyse auf Basis abgeschlossener Versicherungsverträge der Jahre 2020-2023 | Kohortenanalyse | [Zum Ordner](./02_Kohortenanalyse) |
 
 > Weitere Analysen werden **laufend ergänzt**.
 
